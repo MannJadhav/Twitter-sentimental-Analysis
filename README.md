@@ -1,14 +1,14 @@
 # Twitter-sentimental-Analysis
-Twitter sentimental Analysis using Natural Language Processing (NLP) using google colab
+Twitter sentimental Analysis using Natural Language Processing (NLP) using Google Colab
 Overview
 
-This project leverages Natural Language Processing (NLP) techniques to analyze sentiments expressed in tweets. Using Python libraries, we build a model to classify tweets as positive, negative, or neutral. The project is implemented in a Google Colab notebook, making it easy to run and modify.
+This project leverages Natural Language Processing (NLP) techniques to analyze tweet sentiments. Using Python libraries, we build a model to classify tweets as positive, negative, or neutral. The project is implemented in a Google Colab notebook, making it easy to run and modify.
 Features
 
-    Data Collection: Uses the Tweepy library to gather tweets based on specific keywords or hashtags.
-    Data Preprocessing: Cleans and prepares the text data by removing stop words, punctuation, and applying tokenization.
-    Sentiment Analysis: Implements various NLP techniques, including bag-of-words and TF-IDF, along with machine learning algorithms like Naive Bayes or Random Forest.
-    Visualization: Provides visual insights into the sentiment distribution using libraries like Matplotlib and Seaborn.
+    1. Data Collection: Uses the Tweepy library to gather tweets based on specific keywords or hashtags.
+    2. Data Preprocessing: Cleans and prepares the text data by removing stop words, and punctuation, and applying tokenization.
+    3. Sentiment Analysis: Implements various NLP techniques, including bag-of-words and TF-IDF, and machine learning algorithms like Naive Bayes or Random Forest.
+    4. Visualization: Provides visual insights into the sentiment distribution using libraries like Matplotlib and Seaborn.
 
 Getting Started
 
@@ -16,7 +16,7 @@ Getting Started
 
     bash
 
-git clone https://github.com/yourusername/twitter-sentiment-analysis.git
+git clone https://github.com/MannJadhav/Twitter-sentimental-Analysis.git
 cd twitter-sentiment-analysis
 
 Open the Google Colab Notebook:
